@@ -40,4 +40,5 @@
 
 [링크 타이틀](https://github.com/limhanhiro/manual/edit/main/README.md,"이동")
 
+![샘플 이미지](./sample_images_06.png)
    
